@@ -1,8 +1,8 @@
 KEAU1
-version=4.1.0
-notes=4.1: Co-op Endless for up to 4 players, Craziness (sanity), wardrobes to hide in
-base=https://github.com/ImPoPzzZ/after-hours-releases/releases/download/v4.1.0/
-file=1e9cc7dd9cab95ae88cab4870d915df25e43169d45bb7f215a690c8de71cce1a|32065536|KaleidoscopeEndless.dll|KaleidoscopeEndless.dll
+version=4.2.0
+notes=4.2: Gobblegums, a gumball machine in the Endless house with 21 gums and a free pull every objective
+base=https://github.com/ImPoPzzZ/after-hours-releases/releases/download/v4.2.0/
+file=8841f51e59639fde510ab2299e7a800351683671f312b61664e93d0aba3de132|32093184|KaleidoscopeEndless.dll|KaleidoscopeEndless.dll
 file=02d906d6005a2057227283cefa5ad8a7cd331e561661c9abd5373e1be0697586|739858|Sounds/children_boo.wav|Sounds__children_boo.wav
 file=198e1c1c125379392894fb30be9589c76b5d4d3b9e9a90a5bc636b24e5e5fa9d|928786|Sounds/children_yay.wav|Sounds__children_yay.wav
 file=a1fe8afda1da9c3e8b7bf59703a923a3f30c76677d6b4119a0fcbc6ff00d537f|8157074|Sounds/rc_bg.wav|Sounds__rc_bg.wav
